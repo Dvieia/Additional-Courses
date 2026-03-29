@@ -1,4 +1,4 @@
 # Additional-Courses
-Here I will include some projects from courses I am going to take.
+Here I will include some projects from courses I plan to take.
 
-Tools for Data Science Course by IBM: https://coursera.org/share/e92c7d61ef5308f09df1b7624e2e39fd
+IBM Certificate: https://coursera.org/share/506d9995c086f6b4cd525d43fb538598
